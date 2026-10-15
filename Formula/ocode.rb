@@ -1,8 +1,8 @@
 class Ocode < Formula
   desc "Fast, no-frills terminal code reader and editor"
   homepage "https://github.com/wstran/ocode"
-  url "https://github.com/wstran/ocode/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "3bd8c4c3eab4b4786cdc654af5a52b6502adf20deda92cd7aee16d2439120fd0"
+  url "https://github.com/wstran/ocode/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "3d7efda67056419d094d79cb47f923faf4a26c3d264351a27a02cb2eda78f071"
   license "MIT"
   head "https://github.com/wstran/ocode.git", branch: "main"
 
